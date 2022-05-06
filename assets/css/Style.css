@@ -1,0 +1,36 @@
+body {
+  font-family: "roboto", sans-serif;
+}
+.card-body,
+.card-title,
+.form-control,
+.final {
+  font-weight: lighter;
+}
+.recibe,
+.boton {
+  font-weight: 500;
+  font-size: large;
+}
+.img{
+    width: 30%;
+}
+#oferta {
+  font-weight: 500;
+  font-size: x-large;
+}
+.card {
+  margin-top: 80px;
+}
+#dental {
+  height: 48px;
+}
+.direccion {
+  height: 12px;
+}
+.tienda {
+  margin-top: 10px;
+}
+footer{
+    margin-top: 10px;
+}
